@@ -13,10 +13,10 @@ ultima scan example.com
 * Simple - One command setup
 * Combinate nikto, dirsearch, gobaster
 
-**Usage**
-ultima scan target.com
-ultima scan https://site.com
-ultima scan 192.168.1.1
+**Usage:**
+* ultima scan target.com
+* ultima scan https://site.com
+* ultima scan 192.168.1.1
 
 **📊 Output Example**
 ```text
