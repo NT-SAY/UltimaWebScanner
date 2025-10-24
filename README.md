@@ -18,7 +18,7 @@ ultima scan example.com
 * ultima scan https://site.com
 * ultima scan 192.168.1.1
 
-**📊 Output Example**
+**📊 Output Example(not full)**
 ```text
 🔴 SCAN REPORT
 ====================
